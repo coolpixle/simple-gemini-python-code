@@ -1,0 +1,1 @@
+# 6-line-gemini-code-in-python
