@@ -1,4 +1,4 @@
-# 6-line-gemini-code-in-python
+# simple gemini python code
 
 To download the package use pip install google-generativeai
 
